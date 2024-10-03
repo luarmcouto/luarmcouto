@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Luã! A passionate Data Science student from Brazil, based in Portugal, Porto.
 
-  - 🌱 I’m currently studying Software engenhary at 42 Porto.
+  - 🌱 I’m currently studying Software Engineering at 42 Porto.
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
