@@ -32,8 +32,8 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [piscine - 42](https://github.com/luarmcouto/piscine42)
-- [libft - 42]()
-- [ft_printf - 42]()
+- [libft - 42](https://github.com/luarmcouto/libft)
+- [ft_printf - 42](https://github.com/luarmcouto/ft_printf)
 - [ ]()
 - [ ]()
 
