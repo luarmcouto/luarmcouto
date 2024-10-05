@@ -22,15 +22,20 @@
 </details>
 
 <!-- Links -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luarodmonc)
 
+
 <!-- GithubStats -->
-![luarmcouto GitHub stats](https://github-readme-stats.vercel.app/api?username=luarmcouto&show_icons=true&theme=gotham)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luarmcouto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luarmcouto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <!-- Portfolio -->
-## Portfolio:
+## 42 common-core:
 - [piscine - 42](https://github.com/luarmcouto/piscine42)
 - [libft - 42](https://github.com/luarmcouto/libft)
 - [ft_printf - 42](https://github.com/luarmcouto/ft_printf)
