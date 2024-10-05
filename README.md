@@ -35,7 +35,7 @@
 - [libft - 42](https://github.com/luarmcouto/libft)
 - [ft_printf - 42](https://github.com/luarmcouto/ft_printf)
 - [get next line - 42 ](https://github.com/luarmcouto/get_next_line)
-- [ ]()
+- [minitalk - 42 ](https://github.com/luarmcouto/minitalk)
 
 <!-- GIF -->
 <p align="center">
