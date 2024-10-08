@@ -44,7 +44,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://itsfoss.com/content/images/2023/10/Cmatrix.gif" alt="Imagem">
+  <img align="center" src="https://community.wolfram.com/c/message_boards/get_message_attachment?messageId=1381000&attachment=a2.gif">
 </p>
 
 ## 🔥 Skills
