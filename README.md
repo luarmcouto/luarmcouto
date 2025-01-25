@@ -40,6 +40,7 @@
 - [ft_printf - 42](https://github.com/luarmcouto/ft_printf)
 - [get next line - 42 ](https://github.com/luarmcouto/get_next_line)
 - [minitalk - 42 ](https://github.com/luarmcouto/minitalk)
+- [push_swap - 100% ](https://github.com/luarmcouto/push_swap)
 
 <!-- GIF -->
 <p align="center">
