@@ -34,12 +34,14 @@
 </div>
 
 <!-- Portfolio -->
-## 42 common-core:
+## 42 piscine:
 - [piscine - 42](https://github.com/luarmcouto/piscine42)
-- [libft - 42](https://github.com/luarmcouto/libft)
-- [ft_printf - 42](https://github.com/luarmcouto/ft_printf)
-- [get next line - 42 ](https://github.com/luarmcouto/get_next_line)
-- [minitalk - 42 ](https://github.com/luarmcouto/minitalk)
+
+## 42 common-core:
+- [libft - 125%](https://github.com/luarmcouto/libft)
+- [ft_printf - 100%](https://github.com/luarmcouto/ft_printf)
+- [get next line - 112% ](https://github.com/luarmcouto/get_next_line)
+- [minitalk - 100% ](https://github.com/luarmcouto/minitalk)
 - [push_swap - 100% ](https://github.com/luarmcouto/push_swap)
 
 <!-- GIF -->
