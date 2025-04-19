@@ -43,6 +43,7 @@
 - [get next line - 112% ](https://github.com/luarmcouto/get_next_line)
 - [minitalk - 100% ](https://github.com/luarmcouto/minitalk)
 - [push_swap - 100% ](https://github.com/luarmcouto/push_swap)
+- [so long - 100% ](https://github.com/luarmcouto/so_long)
 
 <!-- GIF -->
 <p align="center">
