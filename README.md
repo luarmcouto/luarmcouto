@@ -42,6 +42,8 @@
 - [minitalk - 100% ](https://github.com/luarmcouto/minitalk)
 - [push_swap - 100% ](https://github.com/luarmcouto/push_swap)
 - [so long - 100% ](https://github.com/luarmcouto/so_long)
+- [philosophers - 100% ](https://github.com/luarmcouto/philosophers)
+- [minishell - 100% ](https://github.com/luarmcouto/MiniShell)
 
 <!-- GIF -->
 <p align="center">
